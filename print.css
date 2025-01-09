@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@200;300;400;500;700&display=swap');
+header, nav, aside, footer{
+	display: none;
+}
+
+#grid-container{
+	display: block;
+}
+
+article{
+	font-family: 'Yaldevi', sans-serif;
+	font-size: 15px;
+	flex-basis: 100%;
+	page-break-after: always;
+}
+
+a{
+	display: none;
+}
